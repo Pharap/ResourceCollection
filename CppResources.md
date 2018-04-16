@@ -50,7 +50,7 @@ A collection of very specific articles that I find to be particularly englighten
 * "All C is legal C++" - [No it isn't](https://en.wikipedia.org/wiki/Compatibility_of_C_and_C%2B%2B#Constructs_valid_in_C_but_not_in_C++)
 * "C code behaves the same when compiled as C++" - [Not always](https://en.wikipedia.org/wiki/Compatibility_of_C_and_C%2B%2B#Constructs_that_behave_differently_in_C_and_C++)
 
-## Other Things
+## Miscellaneous
 
 * [Name mangling? What's that?](https://en.wikipedia.org/wiki/Name_mangling)
 * [C/C++ Considered Harmful](http://www.stroustrup.com/bs_faq.html#C-slash)
