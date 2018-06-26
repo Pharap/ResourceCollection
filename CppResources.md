@@ -1,4 +1,4 @@
-# CppResources
+# C++ Resources
 A collection of resources useful for learning C++
 
 ## [en.cppreference.com](http://en.cppreference.com/w/cpp)
