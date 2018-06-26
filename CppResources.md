@@ -34,7 +34,7 @@ A collection of very specific articles that I find to be particularly englighten
 * [Move semantics and rvalue references](https://www.cprogramming.com/c++11/rvalue-references-and-move-semantics-in-c++11.html)
 * [What are the different casts for?](https://stackoverflow.com/questions/332030/when-should-static-cast-dynamic-cast-const-cast-and-reinterpret-cast-be-used)
 
-## Design decisions
+## Design Decisions
 
 * [Why you should avoid `using namespace std;`](https://stackoverflow.com/questions/1452721/why-is-using-namespace-std-considered-bad-practice)
 * [Why dynamic memory allocation should be avoided if possible](https://stackoverflow.com/questions/3770457/what-is-memory-fragmentation)
