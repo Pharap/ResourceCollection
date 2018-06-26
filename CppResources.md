@@ -42,6 +42,10 @@ A collection of very specific articles that I find to be particularly englighten
 * [What's the point of `std::nullptr_t`?](https://stackoverflow.com/questions/12066721/what-are-the-uses-of-the-type-stdnullptr-t)
 * [Function pointers or subclasses?](https://stackoverflow.com/questions/15067350/c-function-pointers-vs-subclasses)
 
+## Useful Articles
+
+* [Initialisation in C++ is bonkers](https://blog.tartanllama.xyz/initialization-is-bonkers/)
+
 ## Breaking The Misconceptions
 
 * "Enums are slow" - [No they aren't](https://stackoverflow.com/questions/4851810/are-c-enums-slower-to-use-than-integers)
