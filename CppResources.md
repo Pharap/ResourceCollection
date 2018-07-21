@@ -9,9 +9,16 @@ Hands down the best C++ reference next to the standard itself
 
 Answers a lot of very specific questions about the C++ language.
 
+## [www.learncpp.com's C++ Tutorial](http://www.learncpp.com/)
+
+One of the best C++ tutorials out there.
+Teaches C++11 techniques right from the start.
+
 ## [www.cprogramming.com's C++ Tutorial](https://www.cprogramming.com/tutorial/c++-tutorial.html)
 
 A decent C++ tutorial from a website with a number of good articles.
+Although with some flaws, so take some of the advice with a grain of salt (particularly their explanation of `inline`).
+The newer articles about C++11 features are very good though.
 
 ## [Bjarne Stroustrup's FAQ](http://www.stroustrup.com/bs_faq.html)
 
