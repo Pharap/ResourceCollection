@@ -20,6 +20,10 @@ A decent C++ tutorial from a website with a number of good articles.
 Although with some flaws, so take some of the advice with a grain of salt (particularly their explanation of `inline`).
 The newer articles about C++11 features are very good though.
 
+## [Cpp Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
+
+An excellent guide on how to write good C++ code, with input from Bjarne Stroustrup (creator of C++) and Herb Sutter (world-renowned C++ expert).
+
 ## [Bjarne Stroustrup's FAQ](http://www.stroustrup.com/bs_faq.html)
 
 The musings of C++'s creator.
