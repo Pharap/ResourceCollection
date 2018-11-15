@@ -64,6 +64,7 @@ A collection of very specific articles that I find to be particularly englighten
 * "C is a subset of C++" - [No it isn't](https://stackoverflow.com/questions/1201593/where-is-c-not-a-subset-of-c)
 * "All C is legal C++" - [No it isn't](https://en.wikipedia.org/wiki/Compatibility_of_C_and_C%2B%2B#Constructs_valid_in_C_but_not_in_C++)
 * "C code behaves the same when compiled as C++" - [Not always](https://en.wikipedia.org/wiki/Compatibility_of_C_and_C%2B%2B#Constructs_that_behave_differently_in_C_and_C++)
+* "C is better than C++" - [Nope](http://warp.povusers.org/grrr/cplusplus_vs_c.html)
 
 ## Miscellaneous
 
