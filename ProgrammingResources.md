@@ -12,3 +12,9 @@ Binary and hexadecimal explained simply.
 ## [Semantic Versioning](https://semver.org/)
 
 One of the most common types of versioning systems.
+
+## [Interpolation methods](http://paulbourke.net/miscellaneous/interpolation/)
+
+A discussion of various interpolation methods by **Paul Bourke**.  
+Interpolation functions are an incredbily useful tool in any programmer's toolkit.  
+They can be used to transform discrete data into continuous data in a variety of ways.  
