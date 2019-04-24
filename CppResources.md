@@ -25,6 +25,8 @@ The newer articles about C++11 features are very good though.
 
 An excellent guide on how to write good C++ code, with input from Bjarne Stroustrup (creator of C++) and Herb Sutter (world-renowned C++ expert).
 
+There's [a version specifically formatted for web browsing](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines) if you prefer that to markdown documents.
+
 ## [Bjarne Stroustrup's FAQ](http://www.stroustrup.com/bs_faq.html)
 
 The musings of C++'s creator.
