@@ -16,9 +16,10 @@ Teaches C++11 techniques right from the start.
 
 ## [www.cprogramming.com's C++ Tutorial](https://www.cprogramming.com/tutorial/c++-tutorial.html)
 
-A decent C++ tutorial from a website with a number of good articles.
-Although with some flaws, so take some of the advice with a grain of salt (particularly their explanation of `inline`).
-The newer articles about C++11 features are very good though.
+A decent C++ tutorial from a website with a number of good articles.  
+Although some of their advice is outdated or flawed,  
+so take some of the advice with a grain of salt (particularly their explanation of `inline`).  
+The newer articles about C++11 features are very good though.  
 
 ## [Cpp Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
 
