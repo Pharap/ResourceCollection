@@ -1,4 +1,4 @@
-# Webdev Resources
+# Japanese Resources
 
 A collection of resources useful for learning Japanese.
 
