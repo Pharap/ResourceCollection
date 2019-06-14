@@ -7,6 +7,10 @@ A collection of resources useful for learning programming
 
 A talk by [Larry Wall](https://en.wikipedia.org/wiki/Larry_Wall) about the kinds of qualities a programmer should have, and why Hobbits would make good programmers.
 
+### [What I tell all new programmers](https://josephg.com/blog/what-i-tell-all-new-programmers/)
+
+An interesting blog post providing advice to new programmers.  
+
 ## Skills & General Knowledge
 
 ### [Binary, Decimal and Hexadecimal](http://www.mathsisfun.com/binary-decimal-hexadecimal.html)
