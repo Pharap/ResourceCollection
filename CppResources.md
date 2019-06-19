@@ -21,7 +21,7 @@ Although some of their advice is outdated or flawed,
 so take some of the advice with a grain of salt (particularly their explanation of `inline`).  
 The newer articles about C++11 features are very good though.  
 
-## [Cpp Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
+## [Cpp Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/README.md)
 
 An excellent guide on how to write good C++ code, with input from Bjarne Stroustrup (creator of C++) and Herb Sutter (world-renowned C++ expert).
 
