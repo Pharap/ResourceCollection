@@ -35,6 +35,10 @@ The musings of C++'s creator.
 
 The musings of C++'s creator about C++11.
 
+## [Bjarne Stroustrup's 2012 Keynote Lecture](https://www.youtube.com/watch?v=0iWb_qi2-uI)
+
+A talk given by Bjarne Stroustrup in 2012 discussing C++11 and good C++ style.
+
 ---
 
 # Author's Pick
