@@ -27,15 +27,17 @@ An excellent guide on how to write good C++ code, with input from Bjarne Stroust
 
 There's [a version specifically formatted for web browsing](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines) if you prefer that to markdown documents.
 
-## [Bjarne Stroustrup's FAQ](http://www.stroustrup.com/bs_faq.html)
+## Bjarne Stroustrup
+
+### [Bjarne Stroustrup's FAQ](http://www.stroustrup.com/bs_faq.html)
 
 The musings of C++'s creator.
 
-## [Bjarne Stroustrup's C++11 FAQ](http://www.stroustrup.com/C++11FAQ.html)
+### [Bjarne Stroustrup's C++11 FAQ](http://www.stroustrup.com/C++11FAQ.html)
 
 The musings of C++'s creator about C++11.
 
-## [Bjarne Stroustrup's 2012 Keynote Lecture](https://www.youtube.com/watch?v=0iWb_qi2-uI)
+### [Bjarne Stroustrup's 2012 Keynote Lecture](https://www.youtube.com/watch?v=0iWb_qi2-uI)
 
 A talk given by Bjarne Stroustrup in 2012 discussing C++11 and good C++ style.
 
