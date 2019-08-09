@@ -68,6 +68,7 @@ A collection of very specific articles that I find to be particularly englighten
 
 ## Breaking The Misconceptions
 
+* "The STL is the same as the C++ standard library" - [No, it isn't!](https://stackoverflow.com/questions/5205491/whats-the-difference-between-stl-and-c-standard-library)
 * "Enums are slow" - [No they aren't](https://stackoverflow.com/questions/4851810/are-c-enums-slower-to-use-than-integers)
 * "Lambdas are less optimal than function pointers" - [No they aren't](https://stackoverflow.com/questions/13722426/why-can-lambdas-be-better-optimized-by-the-compiler-than-plain-functions)
 * "C is a subset of C++" - [No it isn't](https://stackoverflow.com/questions/1201593/where-is-c-not-a-subset-of-c)
