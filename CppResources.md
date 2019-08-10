@@ -61,6 +61,7 @@ A collection of very specific articles that I find to be particularly englighten
 * [What are the rules of using an underscore in an identifier?](https://stackoverflow.com/questions/228783/what-are-the-rules-about-using-an-underscore-in-a-c-identifier)
 * [What's the point of `std::nullptr_t`?](https://stackoverflow.com/questions/12066721/what-are-the-uses-of-the-type-stdnullptr-t)
 * [Function pointers or subclasses?](https://stackoverflow.com/questions/15067350/c-function-pointers-vs-subclasses)
+* [`const` vs `constexpr`](https://stackoverflow.com/questions/13346879/const-vs-constexpr-on-variables)
 
 ## Useful Articles
 
