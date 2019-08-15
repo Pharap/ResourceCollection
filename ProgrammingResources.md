@@ -44,3 +44,9 @@ A data structure used for traversing sequences that's popular in purely function
 ### [Piece Table](https://en.wikipedia.org/wiki/Piece_table)
 
 Represents a series of edits performed on a text document.
+
+### [Rope](https://en.wikipedia.org/wiki/Rope_(data_structure))
+
+### [Gap Buffer](https://en.wikipedia.org/wiki/Gap_buffer)
+
+### [Unrolled Linked List](https://en.wikipedia.org/wiki/Unrolled_linked_list)
