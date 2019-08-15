@@ -82,4 +82,5 @@ A collection of very specific articles that I find to be particularly englighten
 
 * [Name mangling? What's that?](https://en.wikipedia.org/wiki/Name_mangling)
 * [C/C++ Considered Harmful](http://www.stroustrup.com/bs_faq.html#C-slash)
+* [C++ is not C "with classes"](http://www.lb-stuff.com/cc)
 * [Did Bjarne really say that?](http://www.stroustrup.com/bs_faq.html#really-say-that)
