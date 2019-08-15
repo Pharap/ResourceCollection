@@ -33,6 +33,10 @@ An interesting article about unicode and character encodings.
 
 ## Data Structures
 
+### [Circular Buffer](https://en.wikipedia.org/wiki/Circular_buffer)
+
+A kind of fixed-sized queue commonly used when memory is severely constrained.
+
 ## Obscure Data Structures
 
 These data structures are particularly obscure. You aren't likely to need to know about them, but I'm listing them here because they're interesting and have some particularly niche applications.
