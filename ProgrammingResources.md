@@ -30,3 +30,17 @@ They can be used to transform discrete data into continuous data in a variety of
 ### [Character Encodings](http://kunststube.net/encoding/)
 
 An interesting article about unicode and character encodings.
+
+## Data Structures
+
+### [Circular Buffer](https://en.wikipedia.org/wiki/Circular_buffer)
+
+A kind of fixed-sized queue commonly used when memory is severely constrained.
+
+### [Zipper](https://en.wikipedia.org/wiki/Zipper_(data_structure))
+
+A data structure used for traversing sequences that's popular in purely functional languages.
+
+### [Piece Table](https://en.wikipedia.org/wiki/Piece_table)
+
+Represents a series of edits performed on a text document.
