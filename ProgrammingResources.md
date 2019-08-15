@@ -31,7 +31,7 @@ They can be used to transform discrete data into continuous data in a variety of
 
 An interesting article about unicode and character encodings.
 
-## Data Structures
+## Obscure Data Structures
 
 ### [Circular Buffer](https://en.wikipedia.org/wiki/Circular_buffer)
 
