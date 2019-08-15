@@ -26,3 +26,7 @@ One of the most common types of versioning systems.
 A discussion of various interpolation methods by **Paul Bourke**.  
 Interpolation functions are an incredbily useful tool in any programmer's toolkit.  
 They can be used to transform discrete data into continuous data in a variety of ways.  
+
+### [Character Encodings](http://kunststube.net/encoding/)
+
+An interesting article about unicode and character encodings.
