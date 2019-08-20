@@ -11,6 +11,10 @@ A talk by [Larry Wall](https://en.wikipedia.org/wiki/Larry_Wall) about the kinds
 
 An interesting blog post providing advice to new programmers.  
 
+## Principles
+
+### [Separation of concerns](https://en.wikipedia.org/wiki/Separation_of_concerns)
+
 ## Skills & General Knowledge
 
 ### [Binary, Decimal and Hexadecimal](http://www.mathsisfun.com/binary-decimal-hexadecimal.html)
