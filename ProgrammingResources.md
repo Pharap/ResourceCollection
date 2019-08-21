@@ -11,10 +11,6 @@ A talk by [Larry Wall](https://en.wikipedia.org/wiki/Larry_Wall) about the kinds
 
 An interesting blog post providing advice to new programmers.  
 
-## Principles
-
-### [Separation of concerns](https://en.wikipedia.org/wiki/Separation_of_concerns)
-
 ## Skills & General Knowledge
 
 ### [Binary, Decimal and Hexadecimal](http://www.mathsisfun.com/binary-decimal-hexadecimal.html)
@@ -34,6 +30,10 @@ They can be used to transform discrete data into continuous data in a variety of
 ### [Character Encodings](http://kunststube.net/encoding/)
 
 An interesting article about unicode and character encodings.
+
+## Design Principles
+
+### [Separation of concerns](https://en.wikipedia.org/wiki/Separation_of_concerns)
 
 ## Data Structures
 
