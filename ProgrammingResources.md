@@ -1,4 +1,4 @@
-# ProgrammingResources
+# Programming Resources
 A collection of resources useful for learning programming
 
 ## Philosophy
