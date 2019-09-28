@@ -13,6 +13,12 @@ An interesting blog post providing advice to new programmers.
 
 ## Skills & General Knowledge
 
+### [How to Program](https://happycoding.io/tutorials/how-to/program)
+
+Advice about how to tackle programming problems.  
+Beginners should read this and take it to heart.  
+Experienced programmers should find themselves nodding along in agreement.  
+
 ### [Binary, Decimal and Hexadecimal](http://www.mathsisfun.com/binary-decimal-hexadecimal.html)
 
 Binary and hexadecimal explained simply.
