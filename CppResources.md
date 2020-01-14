@@ -45,6 +45,10 @@ A talk given by Bjarne Stroustrup in 2012 discussing C++11 and good C++ style.
 
 A series of blogs by a very well informed individual, disecting advanced C++ problems, particularly ones centred around design decisions.
 
+## [More C++ Idioms](https://en.wikibooks.org/wiki/More_C%2B%2B_Idioms)
+
+A Wikibook series demonstrating various intermediate C++ patterns and idioms.
+
 ---
 
 # Author's Pick
