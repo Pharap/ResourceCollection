@@ -41,6 +41,10 @@ The musings of C++'s creator about C++11.
 
 A talk given by Bjarne Stroustrup in 2012 discussing C++11 and good C++ style.
 
+## [Herb Sutter's 'Guru of the Week'](https://herbsutter.com/gotw/)
+
+A series of blogs by a very well informed individual, disecting advanced C++ problems, particularly ones centred around design decisions.
+
 ---
 
 # Author's Pick
