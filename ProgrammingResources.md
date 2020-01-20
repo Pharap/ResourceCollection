@@ -11,13 +11,20 @@ A talk by [Larry Wall](https://en.wikipedia.org/wiki/Larry_Wall) about the kinds
 
 An interesting blog post providing advice to new programmers.  
 
-## Skills & General Knowledge
+## Advice
 
 ### [How to Program](https://happycoding.io/tutorials/how-to/program)
 
 Advice about how to tackle programming problems.  
 Beginners should read this and take it to heart.  
 Experienced programmers should find themselves nodding along in agreement.  
+
+### [27 Things I Wish I'd Known When I Started Programming](https://www.forbes.com/sites/quora/2017/02/03/twenty-seven-things-i-wish-id-known-when-i-started-programming/)
+
+Normally I'm against numbered list articles because they're typically heinous clickbait,  
+but I found myself agreeing with these items, so I've approved it.  
+
+## Skills & General Knowledge
 
 ### [Binary, Decimal and Hexadecimal](http://www.mathsisfun.com/binary-decimal-hexadecimal.html)
 
