@@ -32,7 +32,7 @@ Binary and hexadecimal explained simply.
 
 ### [How to count to 1000 on two hands](https://www.youtube.com/watch?v=1SMmc9gQmHQ)
 
-A Youtube video by '3Blue1Brown' demonstrating how knowledge of binary can allow you to count to 1024 using two hands.
+A Youtube video by '3Blue1Brown' demonstrating how knowledge of binary can allow you to count to 1023 (2<sup>10</sup>-1) using two hands.
 
 ### [Semantic Versioning](https://semver.org/)
 
