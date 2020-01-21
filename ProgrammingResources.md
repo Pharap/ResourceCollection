@@ -34,6 +34,10 @@ Binary and hexadecimal explained simply.
 
 A Youtube video by '3Blue1Brown' demonstrating how knowledge of binary can allow you to count to 1023 (2<sup>10</sup>-1) using two hands.
 
+The piano music is pretty annoying, you might want to mute the video while watching.
+
+Counting in binary on your hands is actually pretty difficult, this is here just to demonstrate that it's possible and to get you thinking about binary and its uses, I'm not suggesting that this is something you ought to be able to do.
+
 ### [Semantic Versioning](https://semver.org/)
 
 One of the most common types of versioning systems.
