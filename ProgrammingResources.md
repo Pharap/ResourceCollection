@@ -40,21 +40,38 @@ Counting in binary on your hands is actually pretty difficult, this is here just
 
 ### [Semantic Versioning](https://semver.org/)
 
-One of the most common types of versioning systems.
-
-### [Interpolation methods](http://paulbourke.net/miscellaneous/interpolation/)
-
-A discussion of various interpolation methods by **Paul Bourke**.  
-Interpolation functions are an incredbily useful tool in any programmer's toolkit.  
-They can be used to transform discrete data into continuous data in a variety of ways.  
+One of the most common types of versioning systems.  
 
 ### [Character Encodings](http://kunststube.net/encoding/)
 
 An interesting article about unicode and character encodings.
 
+### [Big O Notation Explained](https://justin.abrah.ms/computer-science/big-o-notation-explained.html)
+
+An interesting article about 'big O notation'.
+
+Justin Abrahms is something of a man after my own heart:
+> Big-O notation used to be a really scary concept for me. I thought
+this is how "real" programmers talked about their code. It was all the
+more scary because the academic descriptions (such as Wikipedia) made
+very little sense to me. This is frustrating because the underlying
+concepts aren't actually that hard.
+
+### [Big O Notation](http://cooervo.github.io/Algorithms-DataStructures-BigONotation/big-O-notation.html)
+
+Another 'big O notation' article with diagrams.
+
 ## Design Principles
 
 ### [Separation of concerns](https://en.wikipedia.org/wiki/Separation_of_concerns)
+
+## Techniques
+
+### [Interpolation methods](http://paulbourke.net/miscellaneous/interpolation/)
+
+A discussion of various interpolation methods by **Paul Bourke**.  
+Interpolation functions are an incredbily useful tool in any programmer's toolkit.  
+They can be used to transform discrete data into continuous data in a variety of ways.
 
 ## Data Structures
 
