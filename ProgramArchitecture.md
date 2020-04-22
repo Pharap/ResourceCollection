@@ -1,4 +1,4 @@
-# Program Architecture Resources
+# Program Architecture
 
 ## Objects Should Not Draw Themselves
 
