@@ -1,7 +1,7 @@
 # C++ Resources
 A collection of resources useful for learning C++
 
-## [en.cppreference.com](http://en.cppreference.com/w/cpp)
+## [en.cppreference.com](https://en.cppreference.com/w/cpp)
 
 Hands down the best C++ reference next to the standard itself
 
@@ -9,7 +9,7 @@ Hands down the best C++ reference next to the standard itself
 
 Answers a lot of very specific questions about the C++ language.
 
-## [www.learncpp.com's C++ Tutorial](http://www.learncpp.com/)
+## [www.learncpp.com's C++ Tutorial](https://www.learncpp.com/)
 
 One of the best C++ tutorials out there.
 Teaches C++11 techniques right from the start.
@@ -25,11 +25,11 @@ The newer articles about C++11 features are very good though.
 
 An excellent guide on how to write good C++ code, with input from Bjarne Stroustrup (creator of C++) and Herb Sutter (world-renowned C++ expert).
 
-There's **[a version specifically formatted for web browsing](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)** if you prefer that to markdown documents.
+There's **[a version specifically formatted for web browsing](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)** if you prefer that to markdown documents.
 
 ## Bjarne Stroustrup
 
-### [Bjarne Stroustrup's FAQ](http://www.stroustrup.com/bs_faq.html)
+### [Bjarne Stroustrup's FAQ](https://www.stroustrup.com/bs_faq.html)
 
 The musings of C++'s creator.
 
@@ -93,6 +93,6 @@ A collection of very specific articles that I find to be particularly englighten
 ## Miscellaneous
 
 * [Name mangling? What's that?](https://en.wikipedia.org/wiki/Name_mangling)
-* [C/C++ Considered Harmful](http://www.stroustrup.com/bs_faq.html#C-slash)
+* [C/C++ Considered Harmful](https://www.stroustrup.com/bs_faq.html#C-slash)
 * [C++ is not C "with classes"](http://www.lb-stuff.com/cc)
-* [Did Bjarne really say that?](http://www.stroustrup.com/bs_faq.html#really-say-that)
+* [Did Bjarne really say that?](https://www.stroustrup.com/bs_faq.html#really-say-that)
