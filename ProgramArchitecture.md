@@ -21,7 +21,7 @@ For a more abstract look at the problem:
 One _potential_ exception to this rule is in GUI programming where controls within the GUI might be responsible for drawing themselves,
 but this is an _exception_, not the rule, and it's not always true, it depends on the circumstances.
 
-## Inheriting To Avoid Code Duplication Or To Inherit Functionality is Generally Bad
+## Inheriting to Avoid Code Duplication or to Inherit Functionality is Generally Bad
 
 The point of inheritance is not to facilitate code reuse through inheriting a parent class's code.
 The intent of inheritance is to facilitate "[subtype polymorphism](https://en.wikipedia.org/wiki/Subtyping)" and consequently "[Liskov substitution](https://en.wikipedia.org/wiki/Liskov_substitution_principle)".
