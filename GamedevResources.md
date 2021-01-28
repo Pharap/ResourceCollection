@@ -22,7 +22,7 @@ An excellent series of tutorials covering various different aspects of computer 
 
 ### [Raycasting](https://lodev.org/cgtutor/raycasting.html)
 
-A series of tutorials about Raycasting, the pseudo-3D rendering technique made famous by[id Software](https://en.wikipedia.org/wiki/Id_Software)'s infamous game [Wolfenstein 3D](https://en.wikipedia.org/wiki/Wolfenstein_3D).
+A series of tutorials about Raycasting, the pseudo-3D rendering technique made famous by [id Software](https://en.wikipedia.org/wiki/Id_Software)'s infamous game [Wolfenstein 3D](https://en.wikipedia.org/wiki/Wolfenstein_3D).
 
 ![Wolfenstein 3D Screenshot](https://upload.wikimedia.org/wikipedia/it/5/55/Wolfenstein_3D_Screenshot.png).
 
