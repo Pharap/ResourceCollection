@@ -14,7 +14,7 @@ An excellent online book written by **Bob Nystrom** (@munificent).
 
 It covers commonly used programming patterns and explains how they are useful in the context of video games.
 
-([Also available for purcahse in print, e-book or pdf format](http://gameprogrammingpatterns.com/).)
+([Also available for purchase in print, e-book or pdf format](http://gameprogrammingpatterns.com/).)
 
 ## [Lode's Computer Graphics Tutorial](https://lodev.org/cgtutor/index.html)
 
