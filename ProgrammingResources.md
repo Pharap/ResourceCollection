@@ -3,11 +3,11 @@ A collection of resources useful for learning programming
 
 ## Philosophy
 
-### [Hobbits would make good programmers](https://www.youtube.com/watch?v=G49RUPv5-NU)
+### [Hobbits Would Make Good Programmers](https://www.youtube.com/watch?v=G49RUPv5-NU)
 
 A talk by [Larry Wall](https://en.wikipedia.org/wiki/Larry_Wall) about the kinds of qualities a programmer should have, and why Hobbits would make good programmers.
 
-### [What I tell all new programmers](https://josephg.com/blog/what-i-tell-all-new-programmers/)
+### [What I Tell All New Programmers](https://josephg.com/blog/what-i-tell-all-new-programmers/)
 
 An interesting blog post providing advice to new programmers.  
 
@@ -30,7 +30,7 @@ but I found myself agreeing with these items, so I've approved it.
 
 Binary and hexadecimal explained simply.
 
-### [How to count to 1000 on two hands](https://www.youtube.com/watch?v=1SMmc9gQmHQ)
+### [How to Count to 1000 on Two Hands](https://www.youtube.com/watch?v=1SMmc9gQmHQ)
 
 A Youtube video by '3Blue1Brown' demonstrating how knowledge of binary can allow you to count to 1023 (2<sup>10</sup>-1) using two hands.
 
@@ -63,11 +63,11 @@ Another 'big O notation' article with diagrams.
 
 ## Design Principles
 
-### [Separation of concerns](https://en.wikipedia.org/wiki/Separation_of_concerns)
+### [Separation of Concerns](https://en.wikipedia.org/wiki/Separation_of_concerns)
 
 ## Techniques
 
-### [Interpolation methods](http://paulbourke.net/miscellaneous/interpolation/)
+### [Interpolation Methods](http://paulbourke.net/miscellaneous/interpolation/)
 
 A discussion of various interpolation methods by **Paul Bourke**.  
 Interpolation functions are an incredbily useful tool in any programmer's toolkit.  
