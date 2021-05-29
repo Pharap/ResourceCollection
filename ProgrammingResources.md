@@ -73,6 +73,11 @@ A discussion of various interpolation methods by **Paul Bourke**.
 Interpolation functions are an incredbily useful tool in any programmer's toolkit.  
 They can be used to transform discrete data into continuous data in a variety of ways.
 
+### [Collision Detection](https://www.jeffreythompson.org/collision-detection/)
+
+An online book discussing how to implement various different kinds of collision detection, by **Jeff Thompson**.  
+Covers both the more comon kinds of collision and some more obscure kinds.
+
 ## Data Structures
 
 ### [Circular Buffer](https://en.wikipedia.org/wiki/Circular_buffer)
