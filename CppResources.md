@@ -11,17 +11,17 @@ Answers a lot of very specific questions about the C++ language.
 
 ## [www.learncpp.com's C++ Tutorial](https://www.learncpp.com/)
 
-One of the best C++ tutorials out there.
-Teaches C++11 techniques right from the start.
+One of the best C++ tutorials out there.  
+Teaches modern C++ techniques right from the start.
 
 ## [www.cprogramming.com's C++ Tutorial](https://www.cprogramming.com/tutorial/c++-tutorial.html)
 
 A decent C++ tutorial from a website with a number of good articles.  
-Although some of their advice is outdated or flawed,  
-so take some of the advice with a grain of salt (particularly their explanation of `inline`).  
+However, some of their advice is outdated or flawed,  
+so take some of the advice with a grain of salt.  
 The newer articles about C++11 features are very good though.  
 
-## [Cpp Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/README.md)
+## [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/README.md)
 
 An excellent guide on how to write good C++ code, with input from Bjarne Stroustrup (creator of C++) and Herb Sutter (world-renowned C++ expert).
 
